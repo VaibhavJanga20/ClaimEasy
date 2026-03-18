@@ -316,16 +316,6 @@ This README now covers the official Phase 1 expectations:
 - development roadmap
 - additional architecture and submission context
 
-## Repository Guide
-
-- [PROJECT.md](./PROJECT.md)
-- [Idea Document](./docs/idea-document.md)
-- [Architecture Diagram](./docs/architecture-diagram.md)
-- [Demo Script](./docs/demo-script.md)
-- [Phase Checklist](./docs/phase-checklist.md)
-- [Project Context](./docs/PROJECT_CONTEXT.md)
-- [Architecture Context](./docs/ARCHITECTURE.md)
-- [Session Summary](./docs/SESSION_SUMMARY.md)
 
 ## Core Message
 
